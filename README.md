@@ -12,15 +12,15 @@ This is a personal protfolio website. Anyone camn use this code to creat your ow
 
 <h1>Screenshot</h1>
 <p float="left">
-  <img src="/screenshot/1.jpeg" width="350"/>
-  <img src="/screenshot/2.jpeg" width="350"/>
+  <img src="/screenshot/1.png" width="350"/>
+  <img src="/screenshot/2.png" width="350"/>
 </p>
 <p float="left">
-  <img src="/screenshot/3.jpeg" width="350"/>
-  <img src="/screenshot/4.jpeg" width="350"/>
+  <img src="/screenshot/3.png" width="350"/>
+  <img src="/screenshot/4.png" width="350"/>
 </p>
 <p float="left">
-  <img src="/screenshot/5.jpeg" width="350"/>
+  <img src="/screenshot/5.png" width="350"/>
 </p>
 
 <h1>About Me</h1>
